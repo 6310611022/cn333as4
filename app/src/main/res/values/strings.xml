@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Random Image</string>
+    <string name="height">Height(pixels) : </string>
+    <string name="width">Width(pixels) : </string>
+    <string name="category">Category</string>
+    <string name="view_image">View Image</string>
+    <string name="home">Home</string>
+    <string name="Image">Your Image</string>
+    <string name="back">Back</string>
+    <string name="category1">kitten</string>
+    <string name="category2">dog</string>
+    <string name="category3">bunny</string>
+    <string name="category4">books</string>
+    <string name="category5">cars</string>
+    <string name="category6">flowers</string>
+</resources>
